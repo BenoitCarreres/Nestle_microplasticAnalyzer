@@ -1,4 +1,4 @@
-# Nestle_microplasticAnalyzer
+# Nestle microplastic analyzer
 Tool developed by Société des Produits Nestlé S.A. (Nestlé Research) to process Raman spectra (Horiba) data and identify microplastic particles.
 
 This tool was developed as part of a larger application to identify microplastic raman spectra.

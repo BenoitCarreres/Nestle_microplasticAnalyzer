@@ -1,0 +1,13 @@
+############################################
+### This file allows the user to set the break points of different size units.
+### There is no need for the user to reload the interface to get the changes, a simple change of the "Group by" would do.
+### Only the three units listed in the "Group by" can be used.
+### Formating: The name of the unit as given in the column names. The unit name and the breaks are separated by equal symbol. Each break is separated with a coma. No space or tabulations allowed. The boundaries 0 and Infinite will be systematically added.
+### Example: Area_um2=50,100,150,200
+#### only modify the values bellow this ####
+############################################
+Area_um2=50,100,150,200
+Major.axis=5,10,20,50,100,500
+Minor.Axis=5,10,20,50,100,500
+Perimeter=5,10,20,50,100,500
+Diameter=5,10,20,50,100,500

@@ -30,6 +30,7 @@ library("ranger")
 library("splines")
 library("igraph")
 
+label <<- list()## Fix a bug in the required version of hyperSpec
 
 read.spc <- function(file, classes=NULL){
   message("reading spc file: ",file)

@@ -32,8 +32,7 @@ This software was built and tested on R 4.0.2. HyperSpec 0.99-20171005 is needed
     
     install.packages(c("ranger","splines","igraph"))
     
-    packageurl <- "http://cran.nexr.com/src/contrib/hyperSpec_0.99-20171005.tar.gz"
-    install.packages(packageurl, repos=NULL, type="source")
+    install.packages("https://cran.r-project.org/src/contrib/Archive/hyperSpec/hyperSpec_0.99-20171005.tar.gz", repos=NULL, type="source")
 
 
 The script should be run with all the necessary files in the same folder. It can be called directly via a terminal using Rscript or within Rstudio. Terminal commands at the script location (linux Bash and Windows cmd/PowerShell:
